@@ -41,11 +41,11 @@ params:
 menus:
   main:
     - name: "Home"
-      url: "/#hero"
+      url: "/#"
       weight: 1
 
     - name: "Future"
-      url: "#future"
+      url: "#hero"
       weight: 2
 
     - name: "Services"
@@ -64,11 +64,11 @@ menus:
 
   footer:
     - name: "Home"
-      url: "/#hero"
+      url: "/#"
       weight: 1
 
     - name: "Future"
-      url: "#future"
+      url: "#hero"
       weight: 2
 
     - name: "Services"
