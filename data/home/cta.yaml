@@ -1,0 +1,9 @@
+enabled: false
+id: "cta"
+
+content:
+  title: "Ensure your online behavior is safe and reliable from now on."
+  image: "images/services-web-development.png"
+  button:
+    label: "Let's talk"
+    url: "#"

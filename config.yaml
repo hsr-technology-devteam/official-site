@@ -1,0 +1,85 @@
+baseURL: "https://www.hsrtechnology.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "hsr technology"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  name: "technology"
+  title: "HSR technology"
+  description: "We are dedicated to using emerging technologies to offer secure, viable, and reliable internet behavior governance through legal and notarial data."
+  images: 
+    - "images/hero-image.webp"
+
+  logo: "images/logo.png"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    dribbble: "#"
+    instagram: "#"
+    facebook: "#"
+    twitter: "#"
+
+  location:
+    - "2253 Hall StreetLas Vegas, NV 89121"
+
+  contact:
+    - "sale@hsrtechnology.com"
+    - "tech@hsrtechnology.com"
+    - "services@hsrtechnology.com"
+
+  copyright: "© 2022 HSR technology All Rights Reserved"
+
+menus:
+  main:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Future"
+      url: "#future"
+      weight: 2
+
+    - name: "Services"
+      url: "#services"
+      weight: 3
+
+    - name: "Products"
+      url: "#products"
+      weight: 5
+
+  buttons:
+    - name: "Book a call"
+      url: "/#"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Home"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Future"
+      url: "#future"
+      weight: 2
+
+    - name: "Services"
+      url: "#services"
+      weight: 3
+
+    - name: "Products"
+      url: "#products"
+      weight: 5
+
+
+taxonomies:
+  series: "series"
+  tags: "tags"

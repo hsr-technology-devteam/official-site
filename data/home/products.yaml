@@ -1,0 +1,34 @@
+enabled: true
+id: "products"
+
+content:
+  title: "Our Products"
+  text: "Learn more about some of our specialized  law & notary & security, behavior solutions, below."
+  cards:
+    - title: "Data Asset Management"
+      text: "Efficiently organize and utilize your data assets for maximized business value and insights."
+      # image: "images/problem-solving-5-94.png"
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - title: "Data Delivery"
+      text: "Streamline the flow of your data with reliable, speedy delivery to where it's needed most."
+      # image: "images/video-call-1-40.png"
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - title: "Data Verify"
+      text: "Ensure data accuracy and integrity with robust verification processes for quality assurance."
+      # image: "images/profile-analysis-98.png"
+      button:
+        label: "Learn more"
+        url: "#"
+
+    - title: "Data Evidence"
+      text: "Transform your data into credible evidence to support decision-making and accountability."
+      # image: "images/science-42.png"
+      button:
+        label: "Learn more"
+        url: "#"

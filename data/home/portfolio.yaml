@@ -1,0 +1,36 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-1.png"
+    pretitle: "Idea"
+    title: "Technology that protects. Technology that sets people free"
+    text: "HSR dedicates itself to developing technologies that safeguard individuals and enterprises, empowering everyone to thrive in their digitally connected lives and unlock their full potential."
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  - image: "images/portfolio-2.png"
+    pretitle: "Objective"
+    title: "Committed to excellence in innovation"
+    text: "Blending human ingenuity with artificial intelligence, machine learning, and insights gleaned from our vast global user base, we can effectively counter the ever-increasing complexity and volume of cyber threats."
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  - image: "images/portfolio-3.png"
+    pretitle: "Vision"
+    title: "We design and build for the future"
+    text: "Intellectual diversity – fostered within our organization and through collaborations with world-leading academic institutions – underpins our ability to adapt to the evolving threat landscape, reinforcing HSR's reputation as an innovation powerhouse in the legal and security domains."
+    # buttons: 
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"

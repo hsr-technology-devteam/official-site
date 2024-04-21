@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Guardians of **credible** online **behavior**"
+  text: "At HSR, Create, oversee, and uphold a comprehensive data governance and privacy strategy to significantly reduce potential data-related risks."
+
+  buttonPrimary:
+    label: "How we work"
+    url: "#"
+
+  buttonSecondary:
+    label: "Let's talk"
+    url: ""
+

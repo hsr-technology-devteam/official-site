@@ -1,0 +1,30 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Our services"
+  text: "Learn more about some of our specialized  law & notary & security & privacy solutions, below."
+  cards:
+    - image: "images/report-analysis-17.png"
+      title: "Data Discovery"
+      text: "Inferring insights from data, employing analytical reasoning to draw conclusions and support decision-making processes."
+
+    - image: "images/profile-analysis-98.png"
+      title: "Behavioral Detection"
+      text: "Detecting behavior patterns based on data to improve insights and inform strategic decisions."
+
+    - image: "images/problem-solving-5-94.png"
+      title: "Law/Notary Data Mapping"
+      text: "Visualizing legal data to support attorneys and notaries in accurate documentation and case analysis."
+
+    - image: "images/authentication-5.png"
+      title: "Consent"
+      text: "Online behavior tracking and KYC verification confirm user identities, enhancing security and compliance in digital transactions."
+
+    - image: "images/team-presentation-6-98.png"
+      title: "Assessments Manager"
+      text: "Witnessing online behavior to ensure the authenticity of intentions, enhancing trust and security in digital interactions."
+
+    - image: "images/data-processing-93-34fd1.png"
+      title: "Data Subject Access Request"
+      text: "A one-stop solution for emerging fields, providing comprehensive services to streamline operations and enhance efficiency."
